@@ -194,8 +194,8 @@
 <wire x1="6.985" y1="15.24" x2="6.985" y2="5.08" width="0.254" layer="22"/>
 <wire x1="6.985" y1="5.08" x2="5.715" y2="5.08" width="0.254" layer="22"/>
 <rectangle x1="7.112" y1="23.622" x2="7.239" y2="24.003" layer="41"/>
-<rectangle x1="11.303" y1="28.448" x2="11.43" y2="28.702" layer="42"/>
-<rectangle x1="11.303" y1="29.718" x2="11.43" y2="29.972" layer="42"/>
+<rectangle x1="12.7" y1="28.448" x2="12.827" y2="28.702" layer="42"/>
+<rectangle x1="12.7" y1="29.718" x2="12.827" y2="29.972" layer="42"/>
 <rectangle x1="13.97" y1="34.925" x2="14.097" y2="35.179" layer="42"/>
 <dimension x1="0" y1="0" x2="2.54" y2="0" x3="1.27" y3="-3.81" textsize="1.778" textratio="15" layer="47" unit="inch"/>
 <dimension x1="0" y1="0" x2="12.7" y2="0" x3="6.35" y3="-7.62" textsize="1.778" textratio="15" layer="47" unit="inch"/>
@@ -11109,14 +11109,14 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <attribute name="PROD_ID" value="IC-15360" x="10.16" y="19.05" size="1.778" layer="27" font="vector" ratio="15" rot="R180" display="off"/>
 <attribute name="VALUE" x="10.16" y="22.86" size="1.27" layer="27" rot="R180" align="center"/>
 </element>
-<element name="D2" library="SparkFun-DiscreteSemi" package="0402" value="PESD0402" x="15.875" y="77.47" smashed="yes" rot="R90">
+<element name="D2" library="SparkFun-DiscreteSemi" package="0402" value="PESD0402-0402" x="15.875" y="77.47" smashed="yes" rot="R90">
 <attribute name="DIGIKEY_PART" value="PESD0402-140CT-ND" x="15.875" y="76.2" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
 <attribute name="MOUSE_PART" value="650-PESD0402-140" x="15.875" y="76.2" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
 <attribute name="NAME" x="15.113" y="77.47" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
 <attribute name="PROD_ID" value="DIO-15359" x="15.875" y="76.2" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
 <attribute name="VALUE" x="16.637" y="77.47" size="0.6096" layer="27" font="vector" ratio="20" rot="R90" align="top-center"/>
 </element>
-<element name="D3" library="SparkFun-DiscreteSemi" package="0402" value="PESD0402" x="9.525" y="77.47" smashed="yes" rot="R90">
+<element name="D3" library="SparkFun-DiscreteSemi" package="0402" value="PESD0402-0402" x="9.525" y="77.47" smashed="yes" rot="R90">
 <attribute name="DIGIKEY_PART" value="PESD0402-140CT-ND" x="9.525" y="76.2" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
 <attribute name="MOUSE_PART" value="650-PESD0402-140" x="9.525" y="76.2" size="1.778" layer="27" font="vector" ratio="15" rot="R90" display="off"/>
 <attribute name="NAME" x="8.763" y="77.47" size="0.6096" layer="25" font="vector" ratio="20" rot="R90" align="bottom-center"/>
@@ -11640,6 +11640,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <via x="19.05" y="20.32" extent="1-16" drill="0.3048"/>
 <via x="20.32" y="21.59" extent="1-16" drill="0.3048"/>
 <via x="15.875" y="27.305" extent="1-16" drill="0.3048"/>
+<via x="12.065" y="28.575" extent="1-16" drill="0.3048"/>
+<via x="12.065" y="29.845" extent="1-16" drill="0.3048"/>
 </signal>
 <signal name="3.3V">
 <contactref element="U1" pad="52"/>
@@ -11844,8 +11846,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="15.875" y1="76.89" x2="20.121" y2="76.89" width="0.31241875" layer="1"/>
 <wire x1="20.955" y1="77.724" x2="20.955" y2="80.264" width="0.31241875" layer="1"/>
 <wire x1="20.121" y1="76.89" x2="20.955" y2="77.724" width="0.31241875" layer="1"/>
-<wire x1="15.494" y1="76.89" x2="15.875" y2="76.89" width="0.31241875" layer="1"/>
-<wire x1="15.494" y1="71.12" x2="15.494" y2="76.89" width="0.31241875" layer="1"/>
+<wire x1="15.494" y1="76.509" x2="15.875" y2="76.89" width="0.31241875" layer="1"/>
+<wire x1="15.494" y1="71.12" x2="15.494" y2="76.509" width="0.31241875" layer="1"/>
 </signal>
 <signal name="ANT2" class="2">
 <contactref element="U1" pad="62"/>
@@ -12023,10 +12025,8 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="15.8924" y1="9.7554" x2="15.74" y2="9.9078" width="0.23926875" layer="1"/>
 <wire x1="15.74" y1="9.9078" x2="15.74" y2="10.365" width="0.23926875" layer="1"/>
 <wire x1="15.8924" y1="9.7554" x2="15.8924" y2="9.2884" width="0.23926875" layer="1"/>
-<wire x1="15.4813" y1="8.8773" x2="15.8924" y2="9.2884" width="0.23926875" layer="1"/>
-<wire x1="13.45" y1="6.9342" x2="15.3931" y2="8.8773" width="0.23926875" layer="1"/>
-<wire x1="15.3931" y1="8.8773" x2="15.4813" y2="8.8773" width="0.23926875" layer="1"/>
-<wire x1="13.45" y1="6.9342" x2="13.45" y2="6.8072" width="0.23926875" layer="1"/>
+<wire x1="13.45" y1="6.846" x2="15.8924" y2="9.2884" width="0.23926875" layer="1"/>
+<wire x1="13.45" y1="6.846" x2="13.45" y2="6.8072" width="0.23926875" layer="1"/>
 </signal>
 <signal name="N$11">
 <contactref element="J4" pad="B7"/>
@@ -12039,10 +12039,10 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <wire x1="11.95" y1="5.449" x2="11.95" y2="6.01" width="0.23926875" layer="1"/>
 <wire x1="14.74" y1="10.39" x2="14.74" y2="9.9074" width="0.23926875" layer="1"/>
 <wire x1="14.74" y1="9.9074" x2="14.5876" y2="9.755" width="0.23926875" layer="1"/>
-<wire x1="14.5876" y1="9.755" x2="14.5876" y2="8.6694" width="0.23926875" layer="1"/>
+<wire x1="14.5876" y1="9.755" x2="14.5876" y2="8.5932" width="0.23926875" layer="1"/>
 <wire x1="11.95" y1="6.6668" x2="11.95" y2="6.01" width="0.23926875" layer="1"/>
-<wire x1="14.5876" y1="8.6694" x2="13.1572" y2="7.239" width="0.23926875" layer="1"/>
-<wire x1="13.1572" y1="7.239" x2="12.5222" y2="7.239" width="0.23926875" layer="1"/>
+<wire x1="14.5876" y1="8.5932" x2="13.2334" y2="7.239" width="0.23926875" layer="1"/>
+<wire x1="13.2334" y1="7.239" x2="12.5222" y2="7.239" width="0.23926875" layer="1"/>
 <wire x1="12.5222" y1="7.239" x2="11.95" y2="6.6668" width="0.23926875" layer="1"/>
 </signal>
 <signal name="!PWR_ON!">
