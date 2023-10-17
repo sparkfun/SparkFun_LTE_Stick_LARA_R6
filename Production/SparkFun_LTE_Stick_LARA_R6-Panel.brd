@@ -12247,10 +12247,10 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 </autorouter>
 <elements>
 <element name="E1" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="4.445" y="80.264" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="4.445" y="80.264" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="4.445" y="80.264" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="E2" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="20.955" y="80.264" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="12.065" y="92.964" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="12.065" y="92.964" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="J4" library="SparkFun-Connectors" package="USB-C-16P_4LAYER-PADS" value="" x="12.7" y="6.35" smashed="yes">
 <attribute name="NAME" x="12.7" y="3.81" size="0.762" layer="25" align="center"/>
@@ -12568,10 +12568,10 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$53" library="output" package="#ON_LED#0" value="" x="14.224" y="22.86" smashed="yes" rot="MR0"/>
 <element name="U$60" library="output" package="#PWR_LED#0" value="" x="14.224" y="26.035" smashed="yes" rot="MR0"/>
 <element name="E3" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="30.353" y="80.264" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="30.353" y="80.264" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="30.353" y="80.264" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="E4" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="46.863" y="80.264" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="37.973" y="92.964" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="37.973" y="92.964" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="J5" library="SparkFun-Connectors" package="USB-C-16P_4LAYER-PADS" value="" x="38.608" y="6.35" smashed="yes">
 <attribute name="NAME" x="38.608" y="3.81" size="0.762" layer="25" align="center"/>
@@ -12889,10 +12889,10 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$113" library="output" package="#ON_LED#0" value="" x="40.132" y="22.86" smashed="yes" rot="MR0"/>
 <element name="U$114" library="output" package="#PWR_LED#0" value="" x="40.132" y="26.035" smashed="yes" rot="MR0"/>
 <element name="E5" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="56.261" y="80.264" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="56.261" y="80.264" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="56.261" y="80.264" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="E6" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="72.771" y="80.264" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="63.881" y="92.964" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="63.881" y="92.964" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="J9" library="SparkFun-Connectors" package="USB-C-16P_4LAYER-PADS" value="" x="64.516" y="6.35" smashed="yes">
 <attribute name="NAME" x="64.516" y="3.81" size="0.762" layer="25" align="center"/>
@@ -13210,10 +13210,10 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$170" library="output" package="#ON_LED#0" value="" x="66.04" y="22.86" smashed="yes" rot="MR0"/>
 <element name="U$171" library="output" package="#PWR_LED#0" value="" x="66.04" y="26.035" smashed="yes" rot="MR0"/>
 <element name="E7" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="82.169" y="80.264" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="82.169" y="80.264" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="82.169" y="80.264" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="E8" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="98.679" y="80.264" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="89.789" y="92.964" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="89.789" y="92.964" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="J13" library="SparkFun-Connectors" package="USB-C-16P_4LAYER-PADS" value="" x="90.424" y="6.35" smashed="yes">
 <attribute name="NAME" x="90.424" y="3.81" size="0.762" layer="25" align="center"/>
@@ -13531,10 +13531,10 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$227" library="output" package="#ON_LED#0" value="" x="91.948" y="22.86" smashed="yes" rot="MR0"/>
 <element name="U$228" library="output" package="#PWR_LED#0" value="" x="91.948" y="26.035" smashed="yes" rot="MR0"/>
 <element name="E9" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="4.445" y="165.354" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="4.445" y="165.354" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="4.445" y="165.354" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="E10" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="20.955" y="165.354" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="12.065" y="178.054" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="12.065" y="178.054" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="J17" library="SparkFun-Connectors" package="USB-C-16P_4LAYER-PADS" value="" x="12.7" y="91.44" smashed="yes">
 <attribute name="NAME" x="12.7" y="88.9" size="0.762" layer="25" align="center"/>
@@ -13852,10 +13852,10 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$284" library="output" package="#ON_LED#0" value="" x="14.224" y="107.95" smashed="yes" rot="MR0"/>
 <element name="U$285" library="output" package="#PWR_LED#0" value="" x="14.224" y="111.125" smashed="yes" rot="MR0"/>
 <element name="E11" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="30.353" y="165.354" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="30.353" y="165.354" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="30.353" y="165.354" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="E12" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="46.863" y="165.354" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="37.973" y="178.054" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="37.973" y="178.054" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="J21" library="SparkFun-Connectors" package="USB-C-16P_4LAYER-PADS" value="" x="38.608" y="91.44" smashed="yes">
 <attribute name="NAME" x="38.608" y="88.9" size="0.762" layer="25" align="center"/>
@@ -14173,10 +14173,10 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$341" library="output" package="#ON_LED#0" value="" x="40.132" y="107.95" smashed="yes" rot="MR0"/>
 <element name="U$342" library="output" package="#PWR_LED#0" value="" x="40.132" y="111.125" smashed="yes" rot="MR0"/>
 <element name="E13" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="56.261" y="165.354" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="56.261" y="165.354" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="56.261" y="165.354" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="E14" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="72.771" y="165.354" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="63.881" y="178.054" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="63.881" y="178.054" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="J25" library="SparkFun-Connectors" package="USB-C-16P_4LAYER-PADS" value="" x="64.516" y="91.44" smashed="yes">
 <attribute name="NAME" x="64.516" y="88.9" size="0.762" layer="25" align="center"/>
@@ -14494,10 +14494,10 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="U$398" library="output" package="#ON_LED#0" value="" x="66.04" y="107.95" smashed="yes" rot="MR0"/>
 <element name="U$399" library="output" package="#PWR_LED#0" value="" x="66.04" y="111.125" smashed="yes" rot="MR0"/>
 <element name="E15" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="82.169" y="165.354" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="82.169" y="165.354" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="82.169" y="165.354" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="E16" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="98.679" y="165.354" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="89.789" y="178.054" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="89.789" y="178.054" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="J29" library="SparkFun-Connectors" package="USB-C-16P_4LAYER-PADS" value="" x="90.424" y="91.44" smashed="yes">
 <attribute name="NAME" x="90.424" y="88.9" size="0.762" layer="25" align="center"/>

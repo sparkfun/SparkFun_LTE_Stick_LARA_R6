@@ -11699,10 +11699,10 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 </autorouter>
 <elements>
 <element name="E1" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="4.445" y="80.264" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="4.445" y="80.264" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="4.445" y="80.264" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="E2" library="SparkFun-RF" package="SMA-EDGE" value="ANTENNA-SMA-GROUNDEDEDGE_SMA" x="20.955" y="80.264" smashed="yes">
-<attribute name="PROD_ID" value="CONN-08289" x="12.065" y="92.964" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CONN-19593" x="12.065" y="92.964" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 </element>
 <element name="J4" library="SparkFun-Connectors" package="USB-C-16P_4LAYER-PADS" value="" x="12.7" y="6.35" smashed="yes">
 <attribute name="NAME" x="12.7" y="3.81" size="0.762" layer="25" align="center"/>
