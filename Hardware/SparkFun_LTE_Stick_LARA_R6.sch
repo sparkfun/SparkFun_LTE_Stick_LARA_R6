@@ -27330,16 +27330,16 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <part name="LOGO2" library="SparkFun-Aesthetics" deviceset="OSHW-LOGO" device="M"/>
 <part name="D5" library="SparkFun-LED" deviceset="LED-RED" device="_0603-KB" value="Red"/>
 <part name="D6" library="SparkFun-LED" deviceset="LED-RED" device="_0603-KB" value="Red"/>
-<part name="PWR" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
-<part name="PON" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="PWR_LED" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
+<part name="ON_LED" library="SparkFun-Jumpers" deviceset="JUMPER-SMT_2_NC_TRACE" device="_SILK" package3d_urn="urn:adsk.eagle:package:39281/1"/>
 <part name="GND37" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND38" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="R3" library="SparkFun-Resistors" deviceset="4.7KOHM" device="-0603-1/10W-1%" value="4.7k"/>
 <part name="R4" library="SparkFun-Resistors" deviceset="220OHM" device="-0603-1/10W-1%" value="220"/>
 <part name="SUPPLY6" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="SUPPLY28" library="SparkFun-PowerSymbols" deviceset="1.8V" device=""/>
-<part name="S1" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-4.6X2.8MM"/>
-<part name="S2" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-4.6X2.8MM"/>
+<part name="ON_BTN" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-4.6X2.8MM"/>
+<part name="RST_BTN" library="SparkFun-Switches" deviceset="MOMENTARY-SWITCH-SPST" device="-SMD-4.6X2.8MM"/>
 <part name="GND39" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="GND40" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="FD1" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
@@ -27371,7 +27371,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <part name="SUPPLY9" library="SparkFun-PowerSymbols" deviceset="VIN" device=""/>
 <part name="FRAME1" library="SparkFun-Aesthetics" deviceset="FRAME-LEDGER" device="">
 <attribute name="DESIGNER" value="Dryw Wade"/>
-<attribute name="REV" value="v01"/>
+<attribute name="REV" value="v10"/>
 </part>
 </parts>
 <sheets>
@@ -27435,7 +27435,7 @@ thickness: 0.180mm (7.1mil) 4-LAYER
 Zdifferential: 90.0  Ohms
 
 http://saturnpcb.com/pcb_toolkit/</text>
-<text x="17.78" y="147.32" size="2.54" layer="97" font="vector" ratio="20">Differential Pair Calculation:</text>
+<text x="17.78" y="147.32" size="2.54" layer="97" font="vector" ratio="20">Coplanar Waveguide Calculation:</text>
 <text x="17.78" y="144.78" size="1.778" layer="97" font="vector" align="top-left">Total Copper Thickness: 1.4mil / 36um
 Material: FR-4 STD   Er:4.6
 Conductor Width: 12.3mil / 0.31mm
@@ -27532,8 +27532,8 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <attribute name="NAME" x="254" y="241.554" size="1.778" layer="95" font="vector"/>
 <attribute name="VALUE" x="254" y="225.806" size="1.778" layer="96" font="vector" rot="MR180"/>
 </instance>
-<instance part="SUPPLY8" gate="G$1" x="220.98" y="248.92" smashed="yes">
-<attribute name="VALUE" x="220.98" y="251.714" size="1.778" layer="96" font="vector" align="bottom-center"/>
+<instance part="SUPPLY8" gate="G$1" x="218.44" y="248.92" smashed="yes">
+<attribute name="VALUE" x="218.44" y="251.714" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="GND13" gate="1" x="248.92" y="223.52" smashed="yes">
 <attribute name="VALUE" x="248.92" y="223.266" size="1.778" layer="96" font="vector" align="top-center"/>
@@ -27755,7 +27755,7 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <attribute name="VALUE" x="241.3" y="230.124" size="1.778" layer="96" font="vector" rot="R180" align="top-center"/>
 </instance>
 <instance part="C8" gate="G$1" x="228.6" y="231.14" smashed="yes">
-<attribute name="NAME" x="225.044" y="234.061" size="1.778" layer="95" font="vector"/>
+<attribute name="NAME" x="230.124" y="234.061" size="1.778" layer="95" font="vector"/>
 <attribute name="VALUE" x="228.219" y="225.044" size="1.778" layer="96" font="vector" rot="R90"/>
 </instance>
 <instance part="GND33" gate="1" x="228.6" y="223.52" smashed="yes">
@@ -27782,10 +27782,10 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <attribute name="NAME" x="156.591" y="155.448" size="1.778" layer="95" font="vector" rot="R90"/>
 <attribute name="VALUE" x="161.925" y="155.448" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
 </instance>
-<instance part="PWR" gate="G$1" x="144.78" y="170.18" smashed="yes" rot="R90">
+<instance part="PWR_LED" gate="G$1" x="144.78" y="170.18" smashed="yes" rot="R90">
 <attribute name="NAME" x="141.732" y="170.18" size="1.778" layer="95" font="vector" rot="R90" align="center"/>
 </instance>
-<instance part="PON" gate="G$1" x="160.02" y="170.18" smashed="yes" rot="R90">
+<instance part="ON_LED" gate="G$1" x="160.02" y="170.18" smashed="yes" rot="R90">
 <attribute name="NAME" x="156.972" y="170.18" size="1.778" layer="95" font="vector" rot="R90" align="center"/>
 </instance>
 <instance part="GND37" gate="1" x="144.78" y="137.16" smashed="yes">
@@ -27808,10 +27808,10 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <instance part="SUPPLY28" gate="G$1" x="160.02" y="177.8" smashed="yes">
 <attribute name="VALUE" x="160.02" y="180.594" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
-<instance part="S1" gate="G$1" x="96.52" y="160.02" smashed="yes" rot="R90">
+<instance part="ON_BTN" gate="G$1" x="96.52" y="160.02" smashed="yes" rot="R90">
 <attribute name="NAME" x="94.996" y="160.02" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 </instance>
-<instance part="S2" gate="G$1" x="106.68" y="160.02" smashed="yes" rot="R90">
+<instance part="RST_BTN" gate="G$1" x="106.68" y="160.02" smashed="yes" rot="R90">
 <attribute name="NAME" x="105.156" y="160.02" size="1.778" layer="95" font="vector" rot="R90" align="bottom-center"/>
 </instance>
 <instance part="GND39" gate="1" x="96.52" y="149.86" smashed="yes">
@@ -27882,13 +27882,13 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <instance part="GND42" gate="1" x="314.96" y="134.62" smashed="yes">
 <attribute name="VALUE" x="314.96" y="134.366" size="1.778" layer="96" font="vector" align="top-center"/>
 </instance>
-<instance part="D7" gate="G$1" x="220.98" y="243.84" smashed="yes" rot="R270">
-<attribute name="NAME" x="217.932" y="243.84" size="1.778" layer="95" font="vector" rot="R270"/>
-<attribute name="VALUE" x="215.392" y="241.3" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
+<instance part="D7" gate="G$1" x="223.52" y="246.38" smashed="yes">
+<attribute name="NAME" x="218.694" y="243.84" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="221.234" y="250.444" size="1.778" layer="96" font="vector" align="top-left"/>
 </instance>
-<instance part="D8" gate="G$1" x="228.6" y="243.84" smashed="yes" rot="R270">
-<attribute name="NAME" x="230.632" y="243.84" size="1.778" layer="95" font="vector" rot="R270"/>
-<attribute name="VALUE" x="233.172" y="241.3" size="1.778" layer="96" font="vector" rot="R90" align="top-left"/>
+<instance part="D8" gate="G$1" x="223.52" y="238.76" smashed="yes">
+<attribute name="NAME" x="218.694" y="239.776" size="1.778" layer="95" font="vector"/>
+<attribute name="VALUE" x="226.06" y="234.95" size="1.778" layer="96" font="vector" rot="R180" align="top-left"/>
 </instance>
 <instance part="D9" gate="G$1" x="373.38" y="175.26" smashed="yes" rot="R180">
 <attribute name="NAME" x="375.92" y="173.228" size="1.778" layer="95" font="vector" rot="R180"/>
@@ -27902,8 +27902,8 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <attribute name="VALUE" x="396.24" y="134.874" size="1.778" layer="96" font="vector"/>
 <attribute name="NAME" x="396.24" y="150.368" size="1.778" layer="95" font="vector"/>
 </instance>
-<instance part="SUPPLY9" gate="G$1" x="228.6" y="248.92" smashed="yes">
-<attribute name="VALUE" x="228.6" y="251.714" size="1.778" layer="96" font="vector" align="bottom-center"/>
+<instance part="SUPPLY9" gate="G$1" x="213.36" y="248.92" smashed="yes">
+<attribute name="VALUE" x="213.36" y="251.714" size="1.778" layer="96" font="vector" align="bottom-center"/>
 </instance>
 <instance part="FRAME1" gate="G$1" x="0" y="0" smashed="yes"/>
 <instance part="FRAME1" gate="G$2" x="330.2" y="0" smashed="yes">
@@ -28114,12 +28114,12 @@ http://saturnpcb.com/pcb_toolkit/</text>
 </segment>
 <segment>
 <pinref part="GND39" gate="1" pin="GND"/>
-<pinref part="S1" gate="G$1" pin="1"/>
+<pinref part="ON_BTN" gate="G$1" pin="1"/>
 <wire x1="96.52" y1="152.4" x2="96.52" y2="154.94" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND40" gate="1" pin="GND"/>
-<pinref part="S2" gate="G$1" pin="1"/>
+<pinref part="RST_BTN" gate="G$1" pin="1"/>
 <wire x1="106.68" y1="152.4" x2="106.68" y2="154.94" width="0.1524" layer="91"/>
 </segment>
 <segment>
@@ -28219,7 +28219,7 @@ http://saturnpcb.com/pcb_toolkit/</text>
 </segment>
 <segment>
 <pinref part="SUPPLY6" gate="G$1" pin="3.3V"/>
-<pinref part="PWR" gate="G$1" pin="2"/>
+<pinref part="PWR_LED" gate="G$1" pin="2"/>
 <wire x1="144.78" y1="177.8" x2="144.78" y2="175.26" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -28499,7 +28499,7 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <label x="91.44" y="48.26" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="S2" gate="G$1" pin="2"/>
+<pinref part="RST_BTN" gate="G$1" pin="2"/>
 <wire x1="106.68" y1="165.1" x2="106.68" y2="167.64" width="0.1524" layer="91"/>
 <wire x1="106.68" y1="167.64" x2="109.22" y2="167.64" width="0.1524" layer="91"/>
 <label x="109.22" y="167.64" size="1.27" layer="95" font="vector" xref="yes"/>
@@ -28520,7 +28520,8 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <segment>
 <pinref part="D7" gate="G$1" pin="A"/>
 <pinref part="SUPPLY8" gate="G$1" pin="5V"/>
-<wire x1="220.98" y1="248.92" x2="220.98" y2="246.38" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="246.38" x2="218.44" y2="246.38" width="0.1524" layer="91"/>
+<wire x1="218.44" y1="246.38" x2="218.44" y2="248.92" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$10" class="0">
@@ -28546,7 +28547,7 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <label x="91.44" y="55.88" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="S1" gate="G$1" pin="2"/>
+<pinref part="ON_BTN" gate="G$1" pin="2"/>
 <wire x1="96.52" y1="165.1" x2="96.52" y2="167.64" width="0.1524" layer="91"/>
 <wire x1="96.52" y1="167.64" x2="93.98" y2="167.64" width="0.1524" layer="91"/>
 <label x="93.98" y="167.64" size="1.27" layer="95" font="vector" rot="R180" xref="yes"/>
@@ -28672,7 +28673,7 @@ http://saturnpcb.com/pcb_toolkit/</text>
 </segment>
 <segment>
 <pinref part="SUPPLY28" gate="G$1" pin="1.8V"/>
-<pinref part="PON" gate="G$1" pin="2"/>
+<pinref part="ON_LED" gate="G$1" pin="2"/>
 <wire x1="160.02" y1="177.8" x2="160.02" y2="175.26" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -28875,7 +28876,8 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <segment>
 <pinref part="SUPPLY9" gate="G$1" pin="VIN"/>
 <pinref part="D8" gate="G$1" pin="A"/>
-<wire x1="228.6" y1="246.38" x2="228.6" y2="248.92" width="0.1524" layer="91"/>
+<wire x1="220.98" y1="238.76" x2="213.36" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="213.36" y1="238.76" x2="213.36" y2="248.92" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="I2S_TXA_33" class="0">
@@ -28948,13 +28950,13 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <net name="N$2" class="0">
 <segment>
 <pinref part="D5" gate="G$1" pin="A"/>
-<pinref part="PWR" gate="G$1" pin="1"/>
+<pinref part="PWR_LED" gate="G$1" pin="1"/>
 <wire x1="144.78" y1="162.56" x2="144.78" y2="165.1" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$3" class="0">
 <segment>
-<pinref part="PON" gate="G$1" pin="1"/>
+<pinref part="ON_LED" gate="G$1" pin="1"/>
 <pinref part="D6" gate="G$1" pin="A"/>
 <wire x1="160.02" y1="165.1" x2="160.02" y2="162.56" width="0.1524" layer="91"/>
 </segment>
@@ -28989,7 +28991,7 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <pinref part="C8" gate="G$1" pin="1"/>
 <wire x1="228.6" y1="236.22" x2="228.6" y2="238.76" width="0.1524" layer="91"/>
 <pinref part="D8" gate="G$1" pin="C"/>
-<wire x1="228.6" y1="238.76" x2="220.98" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="228.6" y1="238.76" x2="228.6" y2="246.38" width="0.1524" layer="91"/>
 <junction x="228.6" y="238.76"/>
 <pinref part="D7" gate="G$1" pin="C"/>
 <wire x1="228.6" y1="238.76" x2="233.68" y2="238.76" width="0.1524" layer="91"/>
@@ -28997,8 +28999,8 @@ http://saturnpcb.com/pcb_toolkit/</text>
 <wire x1="236.22" y1="228.6" x2="233.68" y2="228.6" width="0.1524" layer="91"/>
 <wire x1="233.68" y1="228.6" x2="233.68" y2="238.76" width="0.1524" layer="91"/>
 <junction x="233.68" y="238.76"/>
-<wire x1="228.6" y1="241.3" x2="228.6" y2="238.76" width="0.1524" layer="91"/>
-<wire x1="220.98" y1="241.3" x2="220.98" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="226.06" y1="238.76" x2="228.6" y2="238.76" width="0.1524" layer="91"/>
+<wire x1="226.06" y1="246.38" x2="228.6" y2="246.38" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
