@@ -4,7 +4,7 @@ icon: material/tools
 
 ## Basic Assembly
 
-
+The fastest way to get up and running with the LTE Stick is by connecting it to a computer through the USB-C connector and then using u-blox's mcenter software. 
 
 ## Soldered Assembly
 
@@ -28,4 +28,3 @@ icon: material/tools
 
 We specifically designed this board to fit on a breadboard with headers soldered to it for easy prototype circuit building with the LARA-R6. 
 
-## Battery/Power Assembly

@@ -2,10 +2,6 @@
 icon: simple/arduino
 ---
 
-## ublox m-center
-
-
-
 ## Arduino IDE
 
 Most users may already be familiar with the Arduino IDE and its use. However, for those of you who have never heard the name *Arduino* before, feel free to check out the [Arduino website](https://www.arduino.cc/en/Guide/HomePage). To get started with using the Arduino IDE, check out our tutorials below:
@@ -49,10 +45,4 @@ Most users may already be familiar with the Arduino IDE and its use. However, fo
 
 </div>
 
-## SparkFun SARA-R5 Arduino Library
-
-We do not have a dedicated library for the LARA-R6 but because ublox uses a common [AT Command set](./assets/component_documentation/LARA-R6-L6-AT-Commands.pdf), the SparkFun SARA-R5 Arduino Library works for most of the basic functionality of the LTE Stick with some limitations (the SARA-R5 library does not support voice/audio capability on the LTE Stick, the LTE Stick does not have integrated GNSS, among others). Install the library through the Arduino Library Manager tool by searching for <b>"SparkFun u-blox SARA-R5"</b> or you can manually install from the [GitHub Repository](https://github.com/sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library) or click the button below to download a ZIP of the repo:
-
-<center>
-[SparkFun u-blox Sara-5R5 Arduino Library (ZIP)](https://github.com/sparkfun/SparkFun_u-blox_SARA-R5_Arduino_Library/archive/refs/heads/master.zip){ .md-button .md-button--primary }
-</center>
+## SparkFun u-blox Cellular Arduino Library

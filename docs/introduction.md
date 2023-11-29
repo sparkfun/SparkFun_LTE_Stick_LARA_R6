@@ -23,7 +23,7 @@ icon: material/book-open-page-variant
     </article>
     </center>
 
--    The SparkFun LTE Stick - LARA-R6 features the LARA-R6401 LTE module from ublox<sup>&trade;</sup> and provides a unique development platform for 
+-    The SparkFun LTE Stick - LARA-R6 is a a development and prototyping platform for the LARA-R6401 LTE module from ublox<sup>&trade;</sup>. 
 
     <center>
     [Purchase from SparkFun :fontawesome-solid-cart-plus:{ .heart }](https://www.sparkfun.com/products/23618){ .md-button .md-button--primary }

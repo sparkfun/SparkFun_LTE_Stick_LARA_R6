@@ -8,7 +8,7 @@ icon: material/cog
 
 The heart of the LTE Stick is the LARA-R6 LTE Cat 1 module from ublox. The LARA-R6401 supports data <i>and</i> voice over LTE bands and works with most major North American carriers (Verizon, TMobile, AT&T, etc.). 
 
-The LARA-R6 has a large assortment of communication interfaces including dedicated USB, 2x UART, I<sup>2</sup>S, I<sup>2</sup>C, SIM interface, and six GPIO pins. 
+The LARA-R6 has the following interfaces: USB, 2x UART, I<sup>2</sup>S, I<sup>2</sup>C, SIM interface, and nine GPIO pins. It also has a host of features including device security through Root of Trust (RoT) with secure boot and update, firmware updates both over the air (uFOTA) and through AT commands, dynamic antenna tuning, jamming detection, and much more. For a complete overview of these features and other information on the LARA-R6401, refer to the [datasheet](). The R6401 supports LTE FDD bands from 600 MHz to 1900 MHz
 
 ## Pinout
 
