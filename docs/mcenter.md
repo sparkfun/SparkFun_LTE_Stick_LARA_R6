@@ -22,9 +22,30 @@ Open the file once it downloads and follow the instructions to complete the driv
 
 Now that everything is downloaded connect the LTE Stick over USB and press the "On" button to power up the LARA-R6, open m-center and you'll see this menu:
 
-Next, click the "Set Port" button to select the COM port the LTE Stick is on. The LTE Stick has four port options in this menu as the screenshot below shows. Select the one for USB1 (labeled "u-blox Modem USB1 AT and Data (COM#) or similar) and click "Connect". If you do not see any devices available or see unrelated ports, make sure the "ON" led is illuminated on the LTE Stick and that the drivers finished installing.
+<div markdown>
+<figure markdown>
+    [![Main m-center menu](./assets/img/m-center_no_device.jpg){ width="600" }](./assets/img/m-center_no_device.jpg)
+    <figcaption><i>Having trouble seeing the detail in the image? Click on it for a larger view.</i></figcaption>
+</figure>
+</div>
+
+Next, click the "Set Port" button to select the COM port the LTE Stick is on. The LTE Stick has four port options in this menu as the screenshot below shows. Select the one for USB1 (labeled "u-blox Modem USB1 AT and Data (COM#) or similar) and click "Connect". If you do not see any devices available or see unrelated ports, make sure the "ON" LED is illuminated on the LTE Stick and that the drivers finished installing.
+
+<div markdown>
+<figure markdown>
+    [![Main m-center menu](./assets/img/m-center_ports.jpg){ width="600" }](./assets/img/m-center_ports.jpg)
+    <figcaption><i>Having trouble seeing the detail in the image? Click on it for a larger view.</i></figcaption>
+</figure>
+</div>
 
 After the board connects, m-center will display the LARA-R6's modem information including manufacturer, device ID, and firmware version. It also opens the terminal interface and prints out the device's response to the Generic set of AT commands similar to the screenshot below:
+
+<div markdown>
+<figure markdown>
+    [![Main m-center menu](./assets/img/m-center_terminal.jpg){ width="600" }](./assets/img/m-center_terminal.jpg)
+    <figcaption><i>Having trouble seeing the detail in the image? Click on it for a larger view.</i></figcaption>
+</figure>
+</div>
 
 This basic printout lets you know most things are working but the main m-center menu also has several tabs at the top for testing other things such as network connection, firmware update (FOTA or AT command), SMS messages, and more.
 

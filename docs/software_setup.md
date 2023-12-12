@@ -46,3 +46,13 @@ Most users may already be familiar with the Arduino IDE and its use. However, fo
 </div>
 
 ## SparkFun u-blox Cellular Arduino Library
+
+The SparkFun u-blox Cellular Arduino Library is a generic AT command-set library that works with multiple u-blox cellular modules that share the same [AT Command Set](). This includes the LARA-R6 on this board as well as the SARA-R5 and others. Most of the examples are generic and work with all modules but some require selecting a specific module to function properly.
+
+Download the library through the Arduino Library Manager tool by searching for <b>"SparkFun u-blox Cellular"</b> and download the latest version. Users who prefer to install it manually can download it from the [GitHub repository]() or by clicking the button below:
+
+<center>
+[SparkFun u-blox Cellular Arduino Library (ZIP))](){ .md-button .md-button--primary }    
+</center>
+
+With the library installed, let's move on to taking a closer look at a few of the examples included in it.
