@@ -26182,6 +26182,18 @@ Commonly used for small ceramic capacitors. Like our 0.1uF (http://www.sparkfun.
 </technology>
 </technologies>
 </device>
+<device name="-35V-20%(ELEC)" package="PANASONIC_D">
+<connects>
+<connect gate="G$1" pin="+" pad="+"/>
+<connect gate="G$1" pin="-" pad="-"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="PROD_ID" value="CAP-20814"/>
+<attribute name="VALUE" value="100uF"/>
+</technology>
+</technologies>
+</device>
 </devices>
 </deviceset>
 <deviceset name="15PF" prefix="C">
@@ -27352,7 +27364,7 @@ SparkFun BigTime Watch Kit&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
 <part name="FD4" library="SparkFun-Aesthetics" deviceset="FIDUCIAL" device="1X2"/>
 <part name="SUPPLY29" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>
 <part name="GND2" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
-<part name="C9" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-25V-20%(ELEC)" value="100uF"/>
+<part name="C9" library="SparkFun-Capacitors" deviceset="100UF-POLAR" device="-35V-20%(ELEC)" value="100uF"/>
 <part name="C11" library="SparkFun-Capacitors" deviceset="10UF" device="-0805-25V-10%" value="10uF"/>
 <part name="C10" library="SparkFun-Capacitors" deviceset="0.1UF" device="-0603-25V-5%" value="0.1uF"/>
 <part name="SUPPLY26" library="SparkFun-PowerSymbols" deviceset="3.3V" device=""/>

@@ -12740,7 +12740,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="FD4" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="20.32" y="1.27" smashed="yes" rot="MR0"/>
 <element name="C9" library="SparkFun-Capacitors" package="PANASONIC_D" value="100uF" x="20.32" y="22.86" smashed="yes">
 <attribute name="NAME" x="20.32" y="26.289" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-12547" x="11.43" y="33.02" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CAP-20814" x="11.43" y="33.02" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="20.32" y="19.431" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
 <element name="C11" library="SparkFun-Capacitors" package="0805" value="10uF" x="24.13" y="18.415" smashed="yes" rot="R90">
@@ -13065,7 +13065,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="FD8" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="46.228" y="1.27" smashed="yes" rot="MR0"/>
 <element name="C22" library="SparkFun-Capacitors" package="PANASONIC_D" value="100uF" x="46.228" y="22.86" smashed="yes">
 <attribute name="NAME" x="46.228" y="26.289" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-12547" x="37.338" y="33.02" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CAP-20814" x="37.338" y="33.02" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="46.228" y="19.431" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
 <element name="C23" library="SparkFun-Capacitors" package="0805" value="10uF" x="50.038" y="18.415" smashed="yes" rot="R90">
@@ -13390,7 +13390,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="FD12" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="72.136" y="1.27" smashed="yes" rot="MR0"/>
 <element name="C35" library="SparkFun-Capacitors" package="PANASONIC_D" value="100uF" x="72.136" y="22.86" smashed="yes">
 <attribute name="NAME" x="72.136" y="26.289" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-12547" x="63.246" y="33.02" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CAP-20814" x="63.246" y="33.02" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="72.136" y="19.431" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
 <element name="C36" library="SparkFun-Capacitors" package="0805" value="10uF" x="75.946" y="18.415" smashed="yes" rot="R90">
@@ -13715,7 +13715,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="FD16" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="98.044" y="1.27" smashed="yes" rot="MR0"/>
 <element name="C48" library="SparkFun-Capacitors" package="PANASONIC_D" value="100uF" x="98.044" y="22.86" smashed="yes">
 <attribute name="NAME" x="98.044" y="26.289" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-12547" x="89.154" y="33.02" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CAP-20814" x="89.154" y="33.02" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="98.044" y="19.431" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
 <element name="C49" library="SparkFun-Capacitors" package="0805" value="10uF" x="101.854" y="18.415" smashed="yes" rot="R90">
@@ -14040,7 +14040,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="FD20" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="20.32" y="86.36" smashed="yes" rot="MR0"/>
 <element name="C61" library="SparkFun-Capacitors" package="PANASONIC_D" value="100uF" x="20.32" y="107.95" smashed="yes">
 <attribute name="NAME" x="20.32" y="111.379" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-12547" x="11.43" y="118.11" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CAP-20814" x="11.43" y="118.11" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="20.32" y="104.521" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
 <element name="C62" library="SparkFun-Capacitors" package="0805" value="10uF" x="24.13" y="103.505" smashed="yes" rot="R90">
@@ -14365,7 +14365,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="FD24" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="46.228" y="86.36" smashed="yes" rot="MR0"/>
 <element name="C74" library="SparkFun-Capacitors" package="PANASONIC_D" value="100uF" x="46.228" y="107.95" smashed="yes">
 <attribute name="NAME" x="46.228" y="111.379" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-12547" x="37.338" y="118.11" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CAP-20814" x="37.338" y="118.11" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="46.228" y="104.521" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
 <element name="C75" library="SparkFun-Capacitors" package="0805" value="10uF" x="50.038" y="103.505" smashed="yes" rot="R90">
@@ -14690,7 +14690,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="FD28" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="72.136" y="86.36" smashed="yes" rot="MR0"/>
 <element name="C87" library="SparkFun-Capacitors" package="PANASONIC_D" value="100uF" x="72.136" y="107.95" smashed="yes">
 <attribute name="NAME" x="72.136" y="111.379" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-12547" x="63.246" y="118.11" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CAP-20814" x="63.246" y="118.11" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="72.136" y="104.521" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
 <element name="C88" library="SparkFun-Capacitors" package="0805" value="10uF" x="75.946" y="103.505" smashed="yes" rot="R90">
@@ -15015,7 +15015,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="FD32" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="98.044" y="86.36" smashed="yes" rot="MR0"/>
 <element name="C100" library="SparkFun-Capacitors" package="PANASONIC_D" value="100uF" x="98.044" y="107.95" smashed="yes">
 <attribute name="NAME" x="98.044" y="111.379" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-12547" x="89.154" y="118.11" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CAP-20814" x="89.154" y="118.11" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="98.044" y="104.521" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
 <element name="C101" library="SparkFun-Capacitors" package="0805" value="10uF" x="101.854" y="103.505" smashed="yes" rot="R90">
