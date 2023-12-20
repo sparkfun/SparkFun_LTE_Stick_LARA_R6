@@ -12192,7 +12192,7 @@ These are the free and generally easy to produce 4-layer PCB design rules. You c
 <element name="FD4" library="SparkFun-Aesthetics" package="FIDUCIAL-1X2" value="FIDUCIAL1X2" x="20.32" y="1.27" smashed="yes" rot="MR0"/>
 <element name="C9" library="SparkFun-Capacitors" package="PANASONIC_D" value="100uF" x="20.32" y="22.86" smashed="yes">
 <attribute name="NAME" x="20.32" y="26.289" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
-<attribute name="PROD_ID" value="CAP-12547" x="11.43" y="33.02" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
+<attribute name="PROD_ID" value="CAP-20814" x="11.43" y="33.02" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="20.32" y="19.431" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>
 </element>
 <element name="C11" library="SparkFun-Capacitors" package="0805" value="10uF" x="24.13" y="18.415" smashed="yes" rot="R90">
