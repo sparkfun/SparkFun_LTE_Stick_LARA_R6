@@ -2,20 +2,14 @@
 icon: simple/arduino
 ---
 
+
+
 ## Arduino IDE
 
 Most users may already be familiar with the Arduino IDE and its use. However, for those of you who have never heard the name *Arduino* before, feel free to check out the [Arduino website](https://www.arduino.cc/en/Guide/HomePage). To get started with using the Arduino IDE, check out our tutorials below:
 
 
 <div class="grid cards" markdown align="center">
-
-<!-- -   <a href="https://learn.sparkfun.com/tutorials/50">
-	<figure markdown>
-	![What is an Arduino?](https://cdn.sparkfun.com/c/264-148/assets/3/b/6/e/b/512e66bece395f492b000000.jpg)</figure>
-
-    ---
-    **What is an Arduino?**
-	</a> -->
 
 -   <a href="https://learn.sparkfun.com/tutorials/61">
 	<figure markdown>

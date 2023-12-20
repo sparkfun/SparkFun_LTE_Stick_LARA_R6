@@ -254,9 +254,9 @@ nav:
     - Introduction: introduction.md
     - Hardware Overview: hardware_overview.md
     - Hardware Assembly: hardware_assembly.md
-    - Using m-center: mcenter.md
-    - Arduino Library:
-      - Software Setup: software_setup.md
+    - m-center Basics: mcenter.md
+    - SparkFun u-blox Cellular Arduino Library:
+      - Library Setup: software_setup.md
       - Arduino Examples: examples.md
   - Resources: resources.md
   - Support:

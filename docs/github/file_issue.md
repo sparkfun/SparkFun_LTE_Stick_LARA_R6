@@ -20,7 +20,7 @@ Spot something wrong? Please let us know. <a href="https://github.com/sparkfun/S
 
 All of our documentation can be modified by you! Please help us make it better.
 
-* The documentation files for these pages are contained in the [`docs` folder](https://github.com/sparkfun/SparkFun_LTE_Stick_LARA_R6/tree/main/docs) of the [<SparkFun LTE Stick - LARA-R6> repository](https://github.com/sparkfun/SparkFun_LTE_Stick_LARA_R6).
+* The documentation files for these pages are contained in the [`docs` folder](https://github.com/sparkfun/SparkFun_LTE_Stick_LARA_R6/tree/main/docs) of the [SparkFun LTE Stick - LARA-R6 repository](https://github.com/sparkfun/SparkFun_LTE_Stick_LARA_R6).
 
 ### 🔍 Spot something wrong?
 
@@ -38,7 +38,7 @@ If a section of the documentation is incorrect, please [open an issue](https://g
 
 All of our designs are open-source! Please help us make it better.
 
-* Our board design files are contained in the [`Hardware` folder](https://github.com/sparkfun/SparkFun_LTE_Stick_LARA_R6/tree/main/Hardware) of the [<SparkFun LTE Stick - LARA-R6> repository](https://github.com/sparkfun/SparkFun_LTE_Stick_LARA_R6).
+* Our board design files are contained in the [`Hardware` folder](https://github.com/sparkfun/SparkFun_LTE_Stick_LARA_R6/tree/main/Hardware) of the [SparkFun LTE Stick - LARA-R6 repository](https://github.com/sparkfun/SparkFun_LTE_Stick_LARA_R6).
 
 ### Does something not make sense? 🤔
 

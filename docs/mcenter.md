@@ -24,8 +24,7 @@ Now that everything is downloaded connect the LTE Stick over USB and press the "
 
 <div markdown>
 <figure markdown>
-    [![Main m-center menu](./assets/img/m-center_no_device.jpg){ width="600" }](./assets/img/m-center_no_device.jpg)
-    <figcaption><i>Having trouble seeing the detail in the image? Click on it for a larger view.</i></figcaption>
+[![Main m-center menu](./assets/img/m-center_no_device.jpg){ width="600" }](./assets/img/m-center_no_device.jpg "Click to enlarge")
 </figure>
 </div>
 
@@ -33,8 +32,7 @@ Next, click the "Set Port" button to select the COM port the LTE Stick is on. Th
 
 <div markdown>
 <figure markdown>
-    [![Main m-center menu](./assets/img/m-center_ports.jpg){ width="600" }](./assets/img/m-center_ports.jpg)
-    <figcaption><i>Having trouble seeing the detail in the image? Click on it for a larger view.</i></figcaption>
+[![Main m-center menu](./assets/img/m-center_port_menu.jpg){ width="600" }](./assets/img/m-center_port_menu.jpg "Click to enlarge")
 </figure>
 </div>
 
@@ -42,11 +40,28 @@ After the board connects, m-center will display the LARA-R6's modem information 
 
 <div markdown>
 <figure markdown>
-    [![Main m-center menu](./assets/img/m-center_terminal.jpg){ width="600" }](./assets/img/m-center_terminal.jpg)
-    <figcaption><i>Having trouble seeing the detail in the image? Click on it for a larger view.</i></figcaption>
+[![Main m-center menu](./assets/img/m-center_terminal.jpg){ width="600" }](./assets/img/m-center_terminal.jpg "Click to enlarge")
 </figure>
 </div>
 
-This basic printout lets you know most things are working but the main m-center menu also has several tabs at the top for testing other things such as network connection, firmware update (FOTA or AT command), SMS messages, and more.
+This basic printout lets you know most things are working but the main m-center menu also has several tabs at the top for testing other things such as network connection, firmware update (FOTA or AT command), SMS messages, and more. You can also click the "Initialization" button to initialize the LARA-R6 again or the "Get info" button to refresh the modem information and SIM status.
 
-## Network Test
+## Network & Operator Setup
+
+Now that we have the LTE Stick connected and reporting the correct device information, it's time to connect to the cellular network and select the operator. Click the "Cell Tower" image in the top left to switch to the Network tab. In this tab, we can get the network information and operators list as well as the PSD (packet-switched-data profiles) though the PSD profiles are not necessary for basic use of the LARA-R6.
+
+<div markdown>
+<figure markdown>
+[![Main m-center menu](./assets/img/m-center_network_tab.jpg){ width="600" }](./assets/img/m-center_network_tab.jpg "Click to enlarge")
+</figure>
+</div>
+
+Click the "Get List" button to have the LARA-R6 report all available network operators for the connected SIM card. If no operators are selected, choose an available/preferred operator and you're all set to move on to using the LTE Stick on your cellular network. 
+
+<div markdown>
+<figure markdown>
+[![Main m-center menu](./assets/img/m-center_network_operator.jpg){ width="600" }](./assets/img/m-center_network_operator.jpg "Click to enlarge")
+</figure>
+</div>
+
+That covers the basics of getting started with m-center. For more information, check out u-blox's [m-center user guide](https://www.u-blox.com/en/m-center-user-guide) or read on to the next section to learn how to use the LTE Stick with Arduino and the SparkFun u-blox Cellular Arduino Library.
