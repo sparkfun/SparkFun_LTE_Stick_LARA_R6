@@ -14,7 +14,7 @@ icon: material/book-open-page-variant
     ---
 
     <figure markdown>
-    ![Product Thumbnail](<Product Image Link>)
+    ![Product Thumbnail](https://cdn.sparkfun.com/r/600-600/assets/parts/2/3/9/0/9/CEL-23618-LTE-Stick-LARA-R6-Feature.jpg)
     </figure></a>
 
     <center>

@@ -1,12 +1,12 @@
-The m-center application from u-blox is an excellent configuration and interaction tool for the LARA-R6 (and other cellular modules). It is only available on Windows so if you have a different operating system, you'll need to use another software solution like the SparkFun u-blox AT Command Arduino Library covered in the next sections. This section goes over how to install the software and some basics of using it with the LTE Stick to make sure the board is working.
+The m-center application from u-blox is an excellent configuration and interaction tool for the LARA-R6 (and other cellular modules). It is only available on Windows so if you have a different operating system, you'll need to use another software solution like the SparkFun u-blox AT Command Arduino Library covered in the next sections. This section only covers a few of the basics to get started using the LTE Stick with m-center. Refer to u-blox's [m-center User Guide](https://www.u-blox.com/en/m-center-user-guide) for a complete overview of all of the application's features.
 
 ## Download m-center
 
 The m-center application is available from u-blox [here](https://www.u-blox.com/en/product/m-center). Click the button on that page to download the installer. Locate that file and follow the instructions to finish the installation process.
 
-**Screenshot needed? - ML**
-
-This section only covers a few of the basics to get started using the LTE Stick with m-center. Refer to u-blox's [m-center User Guide](https://www.u-blox.com/en/m-center-user-guide) for a complete overview of all of the application's features.
+<center>
+[u-blox m-center](https://www.u-blox.com/en/product/m-center){ .md-button .md-button--primary }
+</center>
 
 ### Download Windows Drivers
 
