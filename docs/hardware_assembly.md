@@ -7,7 +7,7 @@ icon: material/tools
 The fastest way to get up and running with the LTE Stick is by connecting it to a computer through the USB-C connector and then using u-blox's mcenter software. 
 
 <figure markdown>
-[![Basic USB-C assembly of the LTE Stick](./assets/img/LTE_Stick-USB_Assembly.jpg){  width="400"}](./assets/img/LTE_Stick-USB_Assembly.jpg "Click to enlarge")
+[![Basic USB-C assembly of the LTE Stick](./assets/img/LTE_Stick-USB_Assembly.jpg){  width="600"}](./assets/img/LTE_Stick-USB_Assembly.jpg "Click to enlarge")
 </figure>
 
 ## Soldered Assembly
@@ -28,7 +28,7 @@ We specifically designed this board to fit on a breadboard with headers soldered
 Start by soldering [male headers](https://www.sparkfun.com/products/116) to both sets of PTH pins on either side of the board. Next, connect the TXD and RXD pins on the LTE Stick to the Serial1 pins on the Thing Plus - ESP32 (USB-C). Finally, connect VUSB on the Thing Plus to VIN on the LTE Stick and connect the ground pins on both boards to each other. With everything wired up, your completed assembly should resemble the photo below:
 
 <figure markdown>
-[![Completed soldered assembly with serial connection between the LTE Stick to Thing Plus ESP32](./assets/img/LTE_Stick-Arduino_Assembly_Top.jpg){  width="400"}](./assets/img/LTE_Stick-Arduino_Assembly_Top.jpg "Click to enlarge")
+[![Completed soldered assembly with serial connection between the LTE Stick to Thing Plus ESP32](./assets/img/LTE_Stick-Arduino_Assembly_Top.jpg){  width="600"}](./assets/img/LTE_Stick-Arduino_Assembly_Top.jpg "Click to enlarge")
 <figcaption><i>Having trouble seeing the connections in detail? Click on the image for a larger view.</i></figcaption>
 </figure>
 
