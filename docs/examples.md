@@ -28,7 +28,7 @@ Open the example by navigating to <b>File < Examples < SparkFun u-blox Cellular 
 
 ??? "Example 1 - Device Information"
 	```
-	--8<-- "Raw Example URL"
+	--8<-- "https://raw.githubusercontent.com/sparkfun/SparkFun_u-blox_Cellular_Arduino_Library/main/examples/Example1_DeviceIdentification/Example1_DeviceIdentification.ino"
 	```
 
 !!! warning "Serial Port Selection"
@@ -46,7 +46,7 @@ The second example verifies the LARA-R6 is receiving an LTE signal on a selected
 
 ??? "Example 2 -Network Info"
 	```
-	--8<-- "Raw Example URL"
+	--8<-- "https://raw.githubusercontent.com/sparkfun/SparkFun_u-blox_Cellular_Arduino_Library/main/examples/Example2_NetworkInfo/Example2_NetworkInfo.ino"
 	```
 
 After uploading the code, open a terminal window with the baud set to <b>115200</b> and enter any key to start the example. After initializing everything needed, the code attempts to set the Network Profile to the Mobile Network Operator entered. If successful, the code prints out the RSSI (Received Signal Strength), Network Registration Status and Context IDs, Access Point Names and IP Addresses.
@@ -57,7 +57,7 @@ Example 4 checks to see if the LARA-R6 is connected to a network and lets you re
 
 ??? "Example 3 - Register Operator"
 	```
-	--8<-- "Raw Example URL"
+	--8<-- "https://raw.githubusercontent.com/sparkfun/SparkFun_u-blox_Cellular_Arduino_Library/main/examples/Example3_RegisterOperator/Example3_RegisterOperator.ino"
 	```	
 
 ## Example 5 - Ping
@@ -66,7 +66,7 @@ The eighth example tests the LTE Stick's data connection by a standard server pi
 
 ??? "Example 5 - Ping"
 	```
-	--8<-- "Raw Example URL"
+	--8<-- "https://raw.githubusercontent.com/sparkfun/SparkFun_u-blox_Cellular_Arduino_Library/main/examples/Example5_Ping/Example5_Ping.ino"
 	```
 
 If the ping fails, try uncommenting this line that enables debugging over serial:
