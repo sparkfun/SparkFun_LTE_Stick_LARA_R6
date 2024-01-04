@@ -127,7 +127,7 @@ The board measures 3.25" x 1.00" (82.55mm x 25.40mm) with four mounting holes th
 
 
 ??? tip "Need more measurements?"
-	For more information about the board's dimensions, users can download the [Eagle files](../assets/board_files/eagle_files.zip) for the board. These files can be opened in Eagle and additional measurements can be made with the dimensions tool.
+	For more information about the board's dimensions, users can download the [Eagle files](./assets/board_files/SparkFun_LTE_Stick_LARA_R6.zip) for the board. These files can be opened in Eagle and additional measurements can be made with the dimensions tool.
 
 	??? info ":octicons-download-16:{ .heart } Eagle - Free Download!"
 		Eagle is a [CAD]("computer-aided design") program for electronics that is free to use for hobbyists and students. However, it does require an account registration to utilize the software.

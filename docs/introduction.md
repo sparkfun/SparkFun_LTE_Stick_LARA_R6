@@ -16,13 +16,13 @@ icon: material/book-open-page-variant
     <figure markdown>
     ![Product Thumbnail](https://cdn.sparkfun.com/r/600-600/assets/parts/2/3/9/0/9/CEL-23618-LTE-Stick-LARA-R6-Feature.jpg)
     </figure></a>
-<!--
+
     <center>
     <article class="video_desc">
-    <iframe src="<Embedded Video>" title="Product Showcase: SparkFun LTE Stick - LARA-R6" frameborder="0" allow="accelerometer; autoplay; clipboard-write;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src=" https://www.youtube.com/embed/hY0C0PU3CvQ" title="Product Showcase: SparkFun LTE Stick - LARA-R6" frameborder="0" allow="accelerometer; autoplay; clipboard-write;encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </article>
     </center>
--->
+
 -    The SparkFun LTE Stick - LARA-R6 is a development and prototyping platform for the LARA-R6401 LTE module from ublox<sup>&trade;</sup>. The LTE Stick uses the LARA-R6401 version which supports both data and voice for North America and works with LTE bands used by these mobile networks: AT&T, Verizon, T-Mobile, and FirstNet. The board includes a nanoSIM card slot for users to select their preferred network. Check with your network provider for compatibility with the LARA-R6.
 
     The LARA-R6 workss on multiple LTE FDD frequency bands (2, 4, 5, 12, 13, 14, 66, and 71) and includes a host of common features users expect from u-blox modules including uFOTA (over-the-air firmware update), Root of Trust, secure boot/update, jamming detection, antenna and SIM detection, and much more. 
