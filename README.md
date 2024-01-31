@@ -3,7 +3,7 @@ SparkFun LTE Stick - LARA-R6
 
 [![SparkFun LTE Stick - LARA-R6](https://cdn.sparkfun.com/r/600-600/assets/parts/2/3/9/0/9/CEL-23618-LTE-Stick-LARA-R6-Feature.jpg)](https://www.sparkfun.com/products/23618)
 
-[*SparkFun LTE Stick - LARA-R6 (DEV-23618)*](https://www.sparkfun.com/products/23618)
+[*SparkFun LTE Stick - LARA-R6 (CEL-23618)*](https://www.sparkfun.com/products/23618)
 
 The SparkFun LTE Stick provides a development and prototyping platform for the LARA-R6 LTE Cat 1 module from u-blox<sup>&trade;</sup>. The LTE Stick uses the LARA-R6401 version, which supports both data and voice for North America and works with LTE bands used by these mobile networks: AT&T, Verizon, T-Mobile, and FirstNet. The board includes a nanoSIM card slot for users to select their preferred network. Check with your network provider for compatibility with the LARA-R6.
 
@@ -16,7 +16,7 @@ Repository Contents
 * **/Examples** - Example code 
 * **/Hardware** - Eagle design files (.brd, .sch)
 * **/Production** - Production panel files (.brd)
-* **/docs** - Documentation files for the Qwiic Pocket Development Board - ESP32-C6
+* **/docs** - Documentation files for the LTE Stick - LARA-R6
 
 Documentation
 --------------
@@ -26,7 +26,7 @@ Documentation
 
 Product Versions
 ----------------
-* [DEV-23618](https://www.sparkfun.com/products/23618) - Initial release
+* [CEL-23618](https://www.sparkfun.com/products/23618) - Initial release
 
 License Information
 -------------------
