@@ -2,9 +2,6 @@
 icon: material/book-open-page-variant
 ---
 
-## Introduction
-
-
 <div class="grid cards desc" markdown>
 
 -    <a href="https://www.sparkfun.com/products/23618">
